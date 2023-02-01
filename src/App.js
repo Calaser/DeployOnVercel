@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          deploy-on-vercel-on-local-file
+          deploy-on-vercel-on-hub
         </p>
         <a
           className="App-link"
